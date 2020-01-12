@@ -15,6 +15,7 @@ import {
 } from '../components/home/HomeStyling';
 import { ButtonStyle2 } from '../components/reusableStyles/buttons/Button';
 import NoStyleLink from '../components/Links/NoStyleLink';
+import { Bold } from '../components/reusableStyles/typography/Typography';
 
 const DeliveryPage = () => {
   return (
@@ -29,11 +30,13 @@ const DeliveryPage = () => {
               clear front...lick proof, smell proof and it's reusable.
               <br />
               <br />
-              Free delivery on all catering orders within Edmonton.
+              Delivery on all catering orders within Edmonton.
               <br />
-              Free delivery to North Locations on orders $50 and over.
+              Free delivery to North Locations on orders <Bold> $50</Bold> and
+              over.
               <br />
-              Deliveries on other parts of Edmonton...$10
+              Free Deliveries to other parts of Edmonton for orders{' '}
+              <Bold>$100</Bold> or more
             </CustomPHome>
 
             <CustomPHome>

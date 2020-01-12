@@ -41,9 +41,8 @@ const recipeData = [
   },
   {
     id: 5,
-    title: `Grilled whole Plantain Bananas`,
-    description:
-      'Home made Grilled whole Plantain Bananas made with whole bananas',
+    title: `Grilled Whole Plantain Bananas (green)`,
+    description: 'Home made Grilled whole Plantain Bananas.',
     price: 5,
     slug: `Hard_Grilled_plantains`,
   },
@@ -99,17 +98,16 @@ const recipeData = [
     title: `Plantains Bananas`,
     subtitle: 'Side',
     description: `Deep Fried Evenly sliced Plantains Bananas 
-    12 piece for $5
+    12 pieces.
     `,
     price: 5,
     slug: `plantains2`,
   },
   {
     id: 12,
-    title: `Grilled whole Plantain Bananas `,
+    title: `Grilled Whole Plantain Bananas (Ripe) `,
     subtitle: 'Side',
-    description: `Deep Fried Evenly sliced Plantains Bananas 
-    12 piece for $5
+    description: `Home made grilled whole Plantain Bananas.
     `,
     price: 5,
     slug: `Whole_grilled_plantains`,

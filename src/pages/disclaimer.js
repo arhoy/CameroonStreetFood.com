@@ -25,9 +25,9 @@ const DeliveryPage = () => {
             <CustomH2>Fine Lines and/ or Disclaimer</CustomH2>
             <CustomP>Our Disclaimer...</CustomP>
             <CustomPHome>
-              Our food contains a handful of different nuts and other herbs that
-              may be foreign to you. Please be adviced,do not consume if you are
-              prone to allergies of any form. Contact.
+              Our food contains a handful of different types of nuts and other
+              herbs that may be foreign to you. Please be adviced, do not
+              consume if you are prone to allergies of any form.
               <br /> <br />
               However, we are GLUTEN FREE. Again reach out to us!
               <br /> <br />

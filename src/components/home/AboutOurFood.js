@@ -85,9 +85,9 @@ const AboutOurFood = ({ data }) => {
         <CustomPHome>
           Our food is derived from a combination of
           <Bold> popular street foods </Bold> enjoyed in most Regions in
-          Cameroon. However, am putting my spin on it. Incorporated in our food
-          is a mixture of blended African nuts, infused with scented leaves that
-          upshots an aromatic flavour having you taste your lips in
+          Cameroon. However, I am putting my spin on it. Incorporated in our
+          food is a mixture of blended African nuts, infused with scented leaves
+          that upshots an aromatic flavour having you taste your lips in
           anticipation.
         </CustomPHome>
         <CustomPHome>

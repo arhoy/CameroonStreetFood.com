@@ -47,12 +47,12 @@ const Contact = () => {
           For a quicker response text or call <Bold>(587) 920 9921 </Bold>
         </CustomPHome>
         <CustomPHome>
-          This being a passion we are excited to share to you all, comes with
-          its own limitations apparently. We apologise ahead. We are however
-          available to cater three days a week Thursday, Friday and Saturdays.
-          Orders must be placed a week prior to your event date. There are
-          however a handful of West African Traditional dishes we can cater to
-          not outlined here. Hit us up and LETS SERVE YOUR IMAGINATION!
+          This being a passion we are excited to share with you all, comes with
+          its own limitations apparently. We apologise ahead. We are available
+          to cater two days a week Friday and Saturdays. Orders must be placed
+          one week prior to your event date. There are however a handful of West
+          African Traditional dishes we can cater to not outlined here. Hit us
+          up and LETS SERVE YOUR IMAGINATION!
         </CustomPHome>
       </BlurbContainer>
     </CustomContainer>

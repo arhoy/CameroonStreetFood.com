@@ -32,21 +32,24 @@ const AboutUs = () => {
         <CustomH2>About Me</CustomH2>
         <CustomP>My Roots...</CustomP>
         <CustomPHome>
-          Hi, I am Claudine Arrey a Cameroonian Canadian based in Edmonton
+          Hi,
+          <br /> I am Claudine Arrey a Cameroonian Canadian based in Edmonton
           ALBERTA. I was birthed in West Africa in Cameroon's South West
-          Region-Buea. Am a Daughter, Wife, Mum and <Bold>FOOD INVITE</Bold> is
-          my baby!
+          Region-Buea. I am a Daughter, Wife, Mum and <Bold>
+            FOOD INVITE
+          </Bold>{' '}
+          is my baby!
         </CustomPHome>
         <CustomPHome>
-          FOOD is HOSPITALITY. In most African cultures it is how we say ''I
-          LOVE YOU.'' ''Parents are Our First Teachers" is not only true of my
-          values and upbringing is how I grew in LOVE with food. My culinary
-          skills are in born and mostly perfected from watching my parents in
-          synergy beam in cookery. My love for cooking comes from being a picky
-          eater and wanting to create food that suits my taste bud. Alsoà, just
-          loving the traditional gender roles. I love to cater to loved ones
-          around me...it is exuberant! And if you are reading this,{' '}
-          <Bold>WELCOME TO THE FOOD INVITE FAMILY!</Bold>
+          FOOD is HOSPITALITY. {`  `} In most African cultures it is how we say
+          "I LOVE YOU." The phrase, "Parents are Our First Teachers" is not only
+          true of my values and upbringing is how I grew in LOVE with food. My
+          culinary skills are in-born and mostly perfected from watching my
+          parents in synergy beam in cookery. My love for cooking comes from
+          being a picky eater and wanting to create food that suits my taste
+          bud. Also, just loving the traditional gender roles. I love to cater
+          to loved ones around me...it is exuberant! And if you are reading
+          this, <Bold>WELCOME TO THE FOOD INVITE FAMILY!</Bold>
         </CustomPHome>
 
         <ButtonStyle2>
