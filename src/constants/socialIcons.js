@@ -8,6 +8,6 @@ export default [
   },
   {
     icon: <FaInstagram />,
-    url: 'https://www.instagram.com/p/B7Uf_jJhCSq/',
+    url: 'https://www.instagram.com/foodinvite/',
   },
 ];
