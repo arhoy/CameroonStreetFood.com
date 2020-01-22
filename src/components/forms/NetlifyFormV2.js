@@ -102,7 +102,9 @@ const NetlifyFormV2 = ({ title, color, background }) => {
       body: encode({
         'form-name': form.getAttribute('name'),
         firstName: userData.firstName,
+        lastName: userData.lastName,
         email: userData.email,
+        phoneNumber: userData.phoneNumber,
         message: userData.message,
       }),
     })
