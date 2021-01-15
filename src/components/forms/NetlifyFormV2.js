@@ -114,7 +114,7 @@ const NetlifyFormV2 = ({ title, color, background }) => {
 
   return (
     <>
-      <FormTitle>{title || 'How Can We Help?'}</FormTitle>
+      <FormTitle>{title || 'We Are Happy To Help?'}</FormTitle>
       <Form
         name="contact-2"
         method="POST"
